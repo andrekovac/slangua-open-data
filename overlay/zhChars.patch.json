@@ -1,0 +1,2314 @@
+[
+ {
+  "char": "曹",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "曰",
+   "⿱？日"
+  ],
+  "after": [
+   "曰",
+   "⿱？曰"
+  ],
+  "why": "The bottom part is 曰 (speak), not 日 (sun). Shuowen places 曹 under 曰.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 曹",
+  "confidence": 0.9
+ },
+ {
+  "char": "曾",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "曰",
+   "⿳丷？日",
+   [
+    "i",
+    "A rice cooker on heat 日, building up steam 丷 and letting it off"
+   ]
+  ],
+  "after": [
+   "曰",
+   "⿳丷？曰",
+   [
+    "i",
+    "A rice cooker on heat 日, building up steam 丷 and letting it off"
+   ]
+  ],
+  "why": "The bottom part is 曰, not 日. Shuowen explains 曾 with 八 and 曰. The hint text from the source still names 日 and is left as it is.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 曾",
+  "confidence": 0.9
+ },
+ {
+  "char": "曷",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "曰",
+   "⿱日？",
+   [
+    "i",
+    "Variant of 何"
+   ]
+  ],
+  "after": [
+   "曰",
+   "⿱曰？",
+   [
+    "i",
+    "Variant of 何"
+   ]
+  ],
+  "why": "The top part is 曰, not 日. Shuowen: 曰 is the meaning part, 匃 the sound part.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 曷",
+  "confidence": 0.9
+ },
+ {
+  "char": "朁",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "曰",
+   "⿱？日"
+  ],
+  "after": [
+   "曰",
+   "⿱兓曰"
+  ],
+  "why": "The bottom part is 曰, not 日, and the unknown top part is 兓. Shuowen: meaning part 曰, sound part 兓.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 朁",
+  "confidence": 0.85
+ },
+ {
+  "char": "會",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "曰",
+   "⿱⿱亼？日",
+   [
+    "i",
+    "People 人 speaking 日"
+   ]
+  ],
+  "after": [
+   "曰",
+   "⿱⿱亼？曰",
+   [
+    "i",
+    "People 人 speaking 日"
+   ]
+  ],
+  "why": "The bottom part is 曰, not 日: Shuowen explains 會 with 亼 and a shortened 曾, whose bottom is 曰. The hint text still names 日 and is left as it is.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 會",
+  "confidence": 0.8
+ },
+ {
+  "char": "颦",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "十",
+   "⿱频卑",
+   [
+    "p",
+    "despise",
+    "频",
+    "卑"
+   ]
+  ],
+  "after": [
+   "页",
+   "⿱频卑",
+   [
+    "p",
+    "despise",
+    "频",
+    "卑"
+   ]
+  ],
+  "why": "Radical 十 is not part of this character. 颦 is filed under 页 (traditional 顰 under 頁 in Kangxi).",
+  "source": "Unihan database 18.0.0, kRSUnicode of 颦 (181'.15); Kangxi Zidian radical 181 for 顰",
+  "confidence": 0.95
+ },
+ {
+  "char": "啰",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "罒",
+   "⿰口罗",
+   [
+    "p",
+    "mouth",
+    "罗",
+    "口"
+   ]
+  ],
+  "after": [
+   "口",
+   "⿰口罗",
+   [
+    "p",
+    "mouth",
+    "罗",
+    "口"
+   ]
+  ],
+  "why": "Radical 罒 belongs to the sound part 罗; the character is filed under 口 (mouth), like traditional 囉.",
+  "source": "Unihan database 18.0.0, kRSUnicode of 啰 (30.8); same dataset, row 囉",
+  "confidence": 0.95
+ },
+ {
+  "char": "毂",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "殳",
+   "⿰⿱士军车",
+   [
+    "p",
+    "wheel",
+    "",
+    "车"
+   ]
+  ],
+  "after": [
+   "殳",
+   "⿰⿱⿳士冖一车殳",
+   [
+    "p",
+    "wheel",
+    "",
+    "车"
+   ]
+  ],
+  "why": "The decomposition lost 殳 and wrote 车 twice. Same layout as the traditional row 轂, with 车 for 車.",
+  "source": "same dataset, row 轂; Unihan database 18.0.0, kRSUnicode of 毂 (79.9)",
+  "confidence": 0.9
+ },
+ {
+  "char": "载",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "戈",
+   "⿹哉车",
+   [
+    "p",
+    "cart",
+    "哉",
+    "车"
+   ]
+  ],
+  "after": [
+   "戈",
+   "⿹⿱十戈车",
+   [
+    "p",
+    "cart",
+    "哉",
+    "车"
+   ]
+  ],
+  "why": "There is no 口 in 载. The top-right part is 𢦏 (written 十 over 戈 in this dataset, as in 裁 and 截), plus 车. The sound hint 哉 is kept: it has the same sound part 𢦏.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 載 (sound part 𢦏); same dataset, row 裁",
+  "confidence": 0.9
+ },
+ {
+  "char": "載",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "車",
+   "⿹哉車",
+   [
+    "p",
+    "cart",
+    "哉",
+    "車"
+   ]
+  ],
+  "after": [
+   "車",
+   "⿹⿱十戈車",
+   [
+    "p",
+    "cart",
+    "哉",
+    "車"
+   ]
+  ],
+  "why": "There is no 口 in 載. The top-right part is 𢦏 (written 十 over 戈 in this dataset, as in 裁 and 截), plus 車. The sound hint 哉 is kept: it has the same sound part 𢦏.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 載 (sound part 𢦏); same dataset, row 裁",
+  "confidence": 0.9
+ },
+ {
+  "char": "鼋",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "龟",
+   "⿱元黾",
+   [
+    "p",
+    "toad",
+    "元",
+    "黾"
+   ]
+  ],
+  "after": [
+   "黾",
+   "⿱元黾",
+   [
+    "p",
+    "toad",
+    "元",
+    "黾"
+   ]
+  ],
+  "why": "The character has 黾 (frog), not 龟 (turtle). Traditional 黿 is under 黽.",
+  "source": "Unihan database 18.0.0, kRSUnicode of 鼋 (205'.4); same dataset, row 黿",
+  "confidence": 0.95
+ },
+ {
+  "char": "黨",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "黑",
+   "⿱尚黑",
+   [
+    "p",
+    "dark",
+    "尚",
+    "兄"
+   ]
+  ],
+  "after": [
+   "黑",
+   "⿱尚黑",
+   [
+    "p",
+    "dark",
+    "尚",
+    "黑"
+   ]
+  ],
+  "why": "Meaning part 兄 is not in 黨 (it belongs to the simplified 党). Shuowen: meaning part 黑, sound part 尚.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 黨",
+  "confidence": 0.95
+ },
+ {
+  "char": "瓣",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "瓜",
+   "⿲辛瓜辛",
+   [
+    "p",
+    "melon",
+    "\n\n\n\n\n\n\n\n辡",
+    "瓜"
+   ]
+  ],
+  "after": [
+   "瓜",
+   "⿲辛瓜辛",
+   [
+    "p",
+    "melon",
+    "辡",
+    "瓜"
+   ]
+  ],
+  "why": "The sound part field had eight line breaks before 辡 (formatting error in the source).",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 瓣 (sound part 辡)",
+  "confidence": 0.99
+ },
+ {
+  "char": "舉",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "扌",
+   "⿱與扌",
+   [
+    "p",
+    "hand",
+    "舉",
+    "扌"
+   ]
+  ],
+  "after": [
+   "扌",
+   "⿱與扌",
+   [
+    "p",
+    "hand",
+    "與",
+    "扌"
+   ]
+  ],
+  "why": "The sound part pointed to the character itself. Shuowen: meaning part 手, sound part 與.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 舉",
+  "confidence": 0.9
+ },
+ {
+  "char": "凫",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "几",
+   "⿱鸟几",
+   [
+    "p",
+    "bird",
+    "凡",
+    "鸟"
+   ]
+  ],
+  "after": [
+   "几",
+   "⿱鸟几",
+   [
+    "p",
+    "bird",
+    "几",
+    "鸟"
+   ]
+  ],
+  "why": "Sound part 凡 is not in the character. Shuowen gives 几 (shu, short feathers) as the sound part of 鳧.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 鳧",
+  "confidence": 0.85
+ },
+ {
+  "char": "鳧",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "鳥",
+   "⿱鳥几",
+   [
+    "p",
+    "bird",
+    "凡",
+    "鳥"
+   ]
+  ],
+  "after": [
+   "鳥",
+   "⿱鳥几",
+   [
+    "p",
+    "bird",
+    "几",
+    "鳥"
+   ]
+  ],
+  "why": "Sound part 凡 is not in the character. Shuowen gives 几 (shu, short feathers) as the sound part.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 鳧",
+  "confidence": 0.85
+ },
+ {
+  "char": "寬",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "宀",
+   "⿳宀艹⿻見丶",
+   [
+    "p",
+    "roof",
+    "苋",
+    "宀"
+   ]
+  ],
+  "after": [
+   "宀",
+   "⿳宀艹⿻見丶",
+   [
+    "p",
+    "roof",
+    "萈",
+    "宀"
+   ]
+  ],
+  "why": "Sound part was the simplified 苋 (amaranth), a different character. Shuowen: sound part 萈 (huan).",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 寬",
+  "confidence": 0.85
+ },
+ {
+  "char": "屬",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "尸",
+   "⿸尸⿱氺蜀",
+   [
+    "p",
+    "body",
+    "禹",
+    "尸"
+   ]
+  ],
+  "after": [
+   "尸",
+   "⿸尸⿱氺蜀",
+   [
+    "p",
+    "body",
+    "蜀",
+    "尸"
+   ]
+  ],
+  "why": "Sound part 禹 is not in 屬. Shuowen: sound part 蜀.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 屬",
+  "confidence": 0.9
+ },
+ {
+  "char": "廄",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "广",
+   "⿸广既",
+   [
+    "p",
+    "building",
+    "既",
+    "厂"
+   ]
+  ],
+  "after": [
+   "广",
+   "⿸广既",
+   [
+    "p",
+    "building",
+    "既",
+    "广"
+   ]
+  ],
+  "why": "Meaning part 厂 is not in 廄; the building part is 广.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 廄 (meaning part 广)",
+  "confidence": 0.9
+ },
+ {
+  "char": "廚",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "广",
+   "⿸广尌",
+   [
+    "p",
+    "building",
+    "豆",
+    "厂"
+   ]
+  ],
+  "after": [
+   "广",
+   "⿸广尌",
+   [
+    "p",
+    "building",
+    "豆",
+    "广"
+   ]
+  ],
+  "why": "Meaning part 厂 is not in 廚; the building part is 广.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 廚 (meaning part 广, sound part 尌)",
+  "confidence": 0.9
+ },
+ {
+  "char": "惠",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "心",
+   "⿱？心",
+   [
+    "p",
+    "heart",
+    "叀",
+    "心"
+   ]
+  ],
+  "after": [
+   "心",
+   "⿱叀心",
+   [
+    "p",
+    "heart",
+    "叀",
+    "心"
+   ]
+  ],
+  "why": "The unknown top part is 叀, the same as the sound/meaning part already given in the etymology.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 惠",
+  "confidence": 0.9
+ },
+ {
+  "char": "擢",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "扌",
+   "⿰扌翟",
+   [
+    "p",
+    "hand",
+    "隹",
+    "扌"
+   ]
+  ],
+  "after": [
+   "扌",
+   "⿰扌翟",
+   [
+    "p",
+    "hand",
+    "翟",
+    "扌"
+   ]
+  ],
+  "why": "The sound part is the whole 翟 (zhai), not only 隹.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 擢",
+  "confidence": 0.9
+ },
+ {
+  "char": "濯",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "氵",
+   "⿰氵翟",
+   [
+    "p",
+    "water",
+    "隹",
+    "氵"
+   ]
+  ],
+  "after": [
+   "氵",
+   "⿰氵翟",
+   [
+    "p",
+    "water",
+    "翟",
+    "氵"
+   ]
+  ],
+  "why": "The sound part is the whole 翟 (zhuo), not only 隹.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 濯",
+  "confidence": 0.9
+ },
+ {
+  "char": "槜",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "木",
+   "⿰木隽",
+   [
+    "p",
+    "tree",
+    "隹",
+    "木"
+   ]
+  ],
+  "after": [
+   "木",
+   "⿰木隽",
+   [
+    "p",
+    "tree",
+    "隽",
+    "木"
+   ]
+  ],
+  "why": "The sound part is the whole 隽 (variant of 雋), not only 隹.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 檇 (sound part 雋)",
+  "confidence": 0.85
+ },
+ {
+  "char": "漲",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "氵",
+   "⿰氵張",
+   [
+    "p",
+    "water",
+    "张",
+    "氵"
+   ]
+  ],
+  "after": [
+   "氵",
+   "⿰氵張",
+   [
+    "p",
+    "water",
+    "張",
+    "氵"
+   ]
+  ],
+  "why": "A traditional character got the simplified 张 as sound part; its own decomposition has 張.",
+  "source": "same dataset, row 漲 (decomposition)",
+  "confidence": 0.95
+ },
+ {
+  "char": "貿",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "貝",
+   "⿱卯貝",
+   [
+    "p",
+    "money",
+    "卯",
+    "贝"
+   ]
+  ],
+  "after": [
+   "貝",
+   "⿱卯貝",
+   [
+    "p",
+    "money",
+    "卯",
+    "貝"
+   ]
+  ],
+  "why": "A traditional character got the simplified 贝 as meaning part; its own decomposition has 貝.",
+  "source": "same dataset, row 貿 (decomposition)",
+  "confidence": 0.95
+ },
+ {
+  "char": "賞",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "貝",
+   "⿱尚貝",
+   [
+    "p",
+    "money",
+    "尚",
+    "贝"
+   ]
+  ],
+  "after": [
+   "貝",
+   "⿱尚貝",
+   [
+    "p",
+    "money",
+    "尚",
+    "貝"
+   ]
+  ],
+  "why": "A traditional character got the simplified 贝 as meaning part; its own decomposition has 貝.",
+  "source": "same dataset, row 賞 (decomposition)",
+  "confidence": 0.95
+ },
+ {
+  "char": "賣",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "貝",
+   "⿳士罒貝",
+   [
+    "p",
+    "money",
+    "买",
+    "貝"
+   ]
+  ],
+  "after": [
+   "貝",
+   "⿳士罒貝",
+   [
+    "p",
+    "money",
+    "買",
+    "貝"
+   ]
+  ],
+  "why": "A traditional character got the simplified 买 as sound part; the traditional form is 買.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 賣 (出 and 買)",
+  "confidence": 0.9
+ },
+ {
+  "char": "鰂",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "魚",
+   "⿰魚則",
+   [
+    "p",
+    "fish",
+    "則",
+    "鱼"
+   ]
+  ],
+  "after": [
+   "魚",
+   "⿰魚則",
+   [
+    "p",
+    "fish",
+    "則",
+    "魚"
+   ]
+  ],
+  "why": "A traditional character got the simplified 鱼 as meaning part; its own decomposition has 魚.",
+  "source": "same dataset, row 鰂 (decomposition)",
+  "confidence": 0.95
+ },
+ {
+  "char": "磯",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "石",
+   "⿰石？",
+   [
+    "p",
+    "rock",
+    "幾",
+    "石"
+   ]
+  ],
+  "after": [
+   "石",
+   "⿰石幾",
+   [
+    "p",
+    "rock",
+    "幾",
+    "石"
+   ]
+  ],
+  "why": "The unknown right part is 幾, the sound part already given in the etymology.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 磯",
+  "confidence": 0.95
+ },
+ {
+  "char": "髓",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "骨",
+   "⿰骨？",
+   [
+    "p",
+    "bone",
+    "遀",
+    "骨"
+   ]
+  ],
+  "after": [
+   "骨",
+   "⿰骨遀",
+   [
+    "p",
+    "bone",
+    "遀",
+    "骨"
+   ]
+  ],
+  "why": "The unknown right part is 遀, the sound part already given in the etymology.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 髓",
+  "confidence": 0.9
+ },
+ {
+  "char": "膃",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "⺼",
+   "⿰⺼⿱囚皿",
+   [
+    "p",
+    "flesh",
+    "？",
+    "⺼"
+   ]
+  ],
+  "after": [
+   "⺼",
+   "⿰⺼⿱囚皿",
+   [
+    "p",
+    "flesh",
+    "昷",
+    "⺼"
+   ]
+  ],
+  "why": "The sound part field held the placeholder ？. The sound part is 昷 (written as 囚 over 皿 in the decomposition), as in 溫.",
+  "source": "same dataset, row 昷; Shuowen Jiezi (Xu Shen), entry for 溫 (sound part 昷)",
+  "confidence": 0.85
+ },
+ {
+  "char": "朔",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "月",
+   "⿰屰月",
+   [
+    "p",
+    "moon",
+    "月",
+    "月"
+   ]
+  ],
+  "after": [
+   "月",
+   "⿰屰月",
+   [
+    "p",
+    "moon",
+    "屰",
+    "月"
+   ]
+  ],
+  "why": "Sound part and meaning part were both 月. Shuowen: meaning part 月, sound part 屰.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 朔",
+  "confidence": 0.95
+ },
+ {
+  "char": "噁",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "口",
+   "⿰口惡",
+   [
+    "p",
+    "foul",
+    "惡",
+    "惡"
+   ]
+  ],
+  "after": [
+   "口",
+   "⿰口惡",
+   [
+    "p",
+    "foul",
+    "惡",
+    "口"
+   ]
+  ],
+  "why": "Sound part and meaning part were both 惡. The meaning part is 口, the radical.",
+  "source": "Unihan database 18.0.0, kRSUnicode of 噁 (30.12)",
+  "confidence": 0.85
+ },
+ {
+  "char": "馋",
+  "kinds": [
+   "fix",
+   "histPhonetic"
+  ],
+  "before": [
+   "饣",
+   "⿰饣⿱兔？",
+   [
+    "p",
+    "eat",
+    "饣",
+    "饣"
+   ]
+  ],
+  "after": [
+   "饣",
+   "⿰饣⿱兔？",
+   [
+    "p",
+    "eat",
+    "毚",
+    "饣"
+   ],
+   {
+    "histPhonetic": "毚"
+   }
+  ],
+  "why": "Sound part and meaning part were both 饣. The sound part is 毚 (traditional 饞), reduced in the simplified form. Simplified form: the historical sound part 毚 of 饞 is no longer visible.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 毚; traditional 饞; traditional form 饞",
+  "confidence": 0.85
+ },
+ {
+  "char": "平",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "广",
+   "⿻干丷",
+   [
+    "g",
+    "A leveling scale"
+   ]
+  ],
+  "after": [
+   "干",
+   "⿻干丷",
+   [
+    "g",
+    "A leveling scale"
+   ]
+  ],
+  "why": "Radical 广 is not part of 平. Kangxi files 平 under 干.",
+  "source": "Unihan database 18.0.0, kRSUnicode of 平 (51.2)",
+  "confidence": 0.9
+ },
+ {
+  "char": "干",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "十",
+   "⿱一十",
+   [
+    "g",
+    "A club or axe"
+   ]
+  ],
+  "after": [
+   "干",
+   "⿱一十",
+   [
+    "g",
+    "A club or axe"
+   ]
+  ],
+  "why": "干 is itself Kangxi radical 51; 十 was given instead.",
+  "source": "Unihan database 18.0.0, kRSUnicode of 干 (51.0)",
+  "confidence": 0.85
+ },
+ {
+  "char": "雁",
+  "kinds": [
+   "fix"
+  ],
+  "before": [
+   "隹",
+   "⿸厂倠",
+   [
+    "p",
+    "bird",
+    "",
+    "隹"
+   ]
+  ],
+  "after": [
+   "隹",
+   "⿸厂倠",
+   [
+    "p",
+    "bird",
+    "厂",
+    "隹"
+   ]
+  ],
+  "why": "Empty sound part filled: Shuowen gives 厂 (han) as the sound part, with 隹 and 人 as meaning parts.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 雁",
+  "confidence": 0.85
+ },
+ {
+  "char": "最",
+  "kinds": [
+   "note"
+  ],
+  "before": [
+   "曰",
+   "⿱日取",
+   [
+    "i",
+    "To take place 取 under the sun 日 (that is, everywhere)"
+   ]
+  ],
+  "after": [
+   "曰",
+   "⿱日取",
+   [
+    "i",
+    "To take place 取 under the sun 日 (that is, everywhere)"
+   ],
+   {
+    "note": {
+     "kind": "lookalike",
+     "shown": "日",
+     "was": "冃",
+     "why": "The top looks like 日 but comes from 冃 (a cap), not the sun."
+    }
+   }
+  ],
+  "why": "Note: shown 日 was 冃.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 最",
+  "confidence": 0.9
+ },
+ {
+  "char": "冒",
+  "kinds": [
+   "note"
+  ],
+  "before": [
+   "冂",
+   "⿱日目",
+   [
+    "p",
+    "",
+    "冃",
+    "目"
+   ]
+  ],
+  "after": [
+   "冂",
+   "⿱日目",
+   [
+    "p",
+    "",
+    "冃",
+    "目"
+   ],
+   {
+    "note": {
+     "kind": "lookalike",
+     "shown": "日",
+     "was": "冃",
+     "why": "The top looks like 日 but is 冃, a cap pulled over the eyes 目."
+    }
+   }
+  ],
+  "why": "Note: shown 日 was 冃.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 冒",
+  "confidence": 0.9
+ },
+ {
+  "char": "冕",
+  "kinds": [
+   "note"
+  ],
+  "before": [
+   "冂",
+   "⿱日免",
+   [
+    "p",
+    "crown",
+    "免",
+    "冂"
+   ]
+  ],
+  "after": [
+   "冂",
+   "⿱日免",
+   [
+    "p",
+    "crown",
+    "免",
+    "冂"
+   ],
+   {
+    "note": {
+     "kind": "lookalike",
+     "shown": "日",
+     "was": "冃",
+     "why": "The top looks like 日 but is 冃, a cap or crown."
+    }
+   }
+  ],
+  "why": "Note: shown 日 was 冃.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 冕",
+  "confidence": 0.9
+ },
+ {
+  "char": "冑",
+  "kinds": [
+   "note"
+  ],
+  "before": [
+   "⺼",
+   "⿱由⺼",
+   [
+    "i",
+    "A man ⺼ wearing a helmet 由"
+   ]
+  ],
+  "after": [
+   "⺼",
+   "⿱由⺼",
+   [
+    "i",
+    "A man ⺼ wearing a helmet 由"
+   ],
+   {
+    "note": {
+     "kind": "lookalike",
+     "shown": "⺼",
+     "was": "冃",
+     "why": "This is the helmet character: the bottom is 冃 (a cap), not flesh 肉 as in 胄 (descendant)."
+    }
+   }
+  ],
+  "why": "Note: shown ⺼ was 冃.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 冑; Kangxi Zidian radical 13",
+  "confidence": 0.85
+ },
+ {
+  "char": "夏",
+  "kinds": [
+   "note"
+  ],
+  "before": [
+   "夊",
+   "⿳一自夂"
+  ],
+  "after": [
+   "夊",
+   "⿳一自夂",
+   null,
+   {
+    "note": {
+     "kind": "lookalike",
+     "shown": "夂",
+     "was": "夊",
+     "why": "The bottom is 夊 (slow feet), almost the same shape as 夂."
+    }
+   }
+  ],
+  "why": "Note: shown 夂 was 夊.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 夏",
+  "confidence": 0.9
+ },
+ {
+  "char": "复",
+  "kinds": [
+   "note"
+  ],
+  "before": [
+   "夊",
+   "⿱亻⿱日夂",
+   [
+    "i",
+    "A person 亻 who goes  somewhere 夂 every day 日"
+   ]
+  ],
+  "after": [
+   "夊",
+   "⿱亻⿱日夂",
+   [
+    "i",
+    "A person 亻 who goes  somewhere 夂 every day 日"
+   ],
+   {
+    "note": {
+     "kind": "lookalike",
+     "shown": "夂",
+     "was": "夊",
+     "why": "The bottom is 夊 (slow feet), almost the same shape as 夂."
+    }
+   }
+  ],
+  "why": "Note: shown 夂 was 夊.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 复",
+  "confidence": 0.9
+ },
+ {
+  "char": "夌",
+  "kinds": [
+   "note"
+  ],
+  "before": [
+   "夊",
+   "⿱⿱土八夂"
+  ],
+  "after": [
+   "夊",
+   "⿱⿱土八夂",
+   null,
+   {
+    "note": {
+     "kind": "lookalike",
+     "shown": "夂",
+     "was": "夊",
+     "why": "The bottom is 夊 (slow feet), almost the same shape as 夂."
+    }
+   }
+  ],
+  "why": "Note: shown 夂 was 夊.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 夌",
+  "confidence": 0.9
+ },
+ {
+  "char": "内",
+  "kinds": [
+   "note"
+  ],
+  "before": [
+   "入",
+   "⿻冂人",
+   [
+    "i",
+    "A man 人  entering a door 冂"
+   ]
+  ],
+  "after": [
+   "入",
+   "⿻冂人",
+   [
+    "i",
+    "A man 人  entering a door 冂"
+   ],
+   {
+    "note": {
+     "kind": "lookalike",
+     "shown": "人",
+     "was": "入",
+     "why": "Mainland print writes 人 inside, but the part is 入 (enter), as in traditional 內."
+    }
+   }
+  ],
+  "why": "Note: shown 人 was 入.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 內",
+  "confidence": 0.9
+ },
+ {
+  "char": "眾",
+  "kinds": [
+   "note"
+  ],
+  "before": [
+   "目",
+   "⿱罒众",
+   [
+    "p",
+    "crowd",
+    "罒",
+    "众"
+   ]
+  ],
+  "after": [
+   "目",
+   "⿱罒众",
+   [
+    "p",
+    "crowd",
+    "罒",
+    "众"
+   ],
+   {
+    "note": {
+     "kind": "lookalike",
+     "shown": "罒",
+     "was": "目",
+     "why": "The top 罒 is an eye 目 turned on its side, not a net."
+    }
+   }
+  ],
+  "why": "Note: shown 罒 was 目.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 眾",
+  "confidence": 0.9
+ },
+ {
+  "char": "睘",
+  "kinds": [
+   "note"
+  ],
+  "before": [
+   "目",
+   "⿳罒一？"
+  ],
+  "after": [
+   "目",
+   "⿳罒一？",
+   null,
+   {
+    "note": {
+     "kind": "lookalike",
+     "shown": "罒",
+     "was": "目",
+     "why": "The top 罒 is an eye 目 turned on its side, not a net."
+    }
+   }
+  ],
+  "why": "Note: shown 罒 was 目.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 睘",
+  "confidence": 0.9
+ },
+ {
+  "char": "睪",
+  "kinds": [
+   "note"
+  ],
+  "before": [
+   "目",
+   "⿱罒幸",
+   [
+    "i",
+    "An eye 目 on top of a tower 幸"
+   ]
+  ],
+  "after": [
+   "目",
+   "⿱罒幸",
+   [
+    "i",
+    "An eye 目 on top of a tower 幸"
+   ],
+   {
+    "note": {
+     "kind": "lookalike",
+     "shown": "罒",
+     "was": "目",
+     "why": "The top 罒 is an eye 目 turned on its side, not a net."
+    }
+   }
+  ],
+  "why": "Note: shown 罒 was 目.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 睪",
+  "confidence": 0.9
+ },
+ {
+  "char": "举",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "丶",
+   "⿱兴扌",
+   [
+    "p",
+    "hand",
+    "舉",
+    "扌"
+   ]
+  ],
+  "after": [
+   "丶",
+   "⿱兴扌",
+   [
+    "p",
+    "hand",
+    "舉",
+    "扌"
+   ],
+   {
+    "histPhonetic": "舉"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 舉 of 舉 is no longer visible.",
+  "source": "traditional form 舉",
+  "confidence": 0.85
+ },
+ {
+  "char": "凤",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "几",
+   "⿵几又",
+   [
+    "p",
+    "simplified form of 鳥 bird",
+    "凡",
+    "又"
+   ]
+  ],
+  "after": [
+   "几",
+   "⿵几又",
+   [
+    "p",
+    "simplified form of 鳥 bird",
+    "凡",
+    "又"
+   ],
+   {
+    "histPhonetic": "凡"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 凡 of 鳳 is no longer visible.",
+  "source": "traditional form 鳳",
+  "confidence": 0.85
+ },
+ {
+  "char": "场",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "土",
+   "⿰土勿",
+   [
+    "p",
+    "earth",
+    "昜",
+    "土"
+   ]
+  ],
+  "after": [
+   "土",
+   "⿰土勿",
+   [
+    "p",
+    "earth",
+    "昜",
+    "土"
+   ],
+   {
+    "histPhonetic": "昜"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 昜 of 場 is no longer visible.",
+  "source": "traditional form 場",
+  "confidence": 0.85
+ },
+ {
+  "char": "峄",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "山",
+   "⿰山？",
+   [
+    "p",
+    "mountain",
+    "睪",
+    "山"
+   ]
+  ],
+  "after": [
+   "山",
+   "⿰山？",
+   [
+    "p",
+    "mountain",
+    "睪",
+    "山"
+   ],
+   {
+    "histPhonetic": "睪"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 睪 of 嶧 is no longer visible.",
+  "source": "traditional form 嶧",
+  "confidence": 0.85
+ },
+ {
+  "char": "峦",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "山",
+   "⿱亦山",
+   [
+    "p",
+    "mountain",
+    "䜌",
+    "山"
+   ]
+  ],
+  "after": [
+   "山",
+   "⿱亦山",
+   [
+    "p",
+    "mountain",
+    "䜌",
+    "山"
+   ],
+   {
+    "histPhonetic": "䜌"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 䜌 of 巒 is no longer visible.",
+  "source": "traditional form 巒",
+  "confidence": 0.85
+ },
+ {
+  "char": "庄",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "广",
+   "⿸广土",
+   [
+    "p",
+    "house",
+    "壯",
+    "广"
+   ]
+  ],
+  "after": [
+   "广",
+   "⿸广土",
+   [
+    "p",
+    "house",
+    "壯",
+    "广"
+   ],
+   {
+    "histPhonetic": "壯"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 壯 of 莊 is no longer visible.",
+  "source": "traditional form 莊",
+  "confidence": 0.85
+ },
+ {
+  "char": "敌",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "舌",
+   "⿰舌攵",
+   [
+    "p",
+    "strike",
+    "啇",
+    "攵"
+   ]
+  ],
+  "after": [
+   "舌",
+   "⿰舌攵",
+   [
+    "p",
+    "strike",
+    "啇",
+    "攵"
+   ],
+   {
+    "histPhonetic": "啇"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 啇 of 敵 is no longer visible.",
+  "source": "traditional form 敵",
+  "confidence": 0.85
+ },
+ {
+  "char": "权",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "木",
+   "⿰木又",
+   [
+    "p",
+    "wood",
+    "雚",
+    "木"
+   ]
+  ],
+  "after": [
+   "木",
+   "⿰木又",
+   [
+    "p",
+    "wood",
+    "雚",
+    "木"
+   ],
+   {
+    "histPhonetic": "雚"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 雚 of 權 is no longer visible.",
+  "source": "traditional form 權",
+  "confidence": 0.85
+ },
+ {
+  "char": "标",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "木",
+   "⿰木示",
+   [
+    "p",
+    "wood",
+    "票",
+    "木"
+   ]
+  ],
+  "after": [
+   "木",
+   "⿰木示",
+   [
+    "p",
+    "wood",
+    "票",
+    "木"
+   ],
+   {
+    "histPhonetic": "票"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 票 of 標 is no longer visible.",
+  "source": "traditional form 標",
+  "confidence": 0.85
+ },
+ {
+  "char": "满",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "氵",
+   "⿰氵⿱艹两",
+   [
+    "p",
+    "water",
+    "㒼",
+    "氵"
+   ]
+  ],
+  "after": [
+   "氵",
+   "⿰氵⿱艹两",
+   [
+    "p",
+    "water",
+    "㒼",
+    "氵"
+   ],
+   {
+    "histPhonetic": "㒼"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 㒼 of 滿 is no longer visible.",
+  "source": "traditional form 滿",
+  "confidence": 0.85
+ },
+ {
+  "char": "瞒",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "目",
+   "⿰目⿱艹两",
+   [
+    "p",
+    "eye",
+    "㒼",
+    "目"
+   ]
+  ],
+  "after": [
+   "目",
+   "⿰目⿱艹两",
+   [
+    "p",
+    "eye",
+    "㒼",
+    "目"
+   ],
+   {
+    "histPhonetic": "㒼"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 㒼 of 瞞 is no longer visible.",
+  "source": "traditional form 瞞",
+  "confidence": 0.85
+ },
+ {
+  "char": "螨",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "虫",
+   "⿰虫⿱艹两",
+   [
+    "p",
+    "insect",
+    "㒼",
+    "虫"
+   ]
+  ],
+  "after": [
+   "虫",
+   "⿰虫⿱艹两",
+   [
+    "p",
+    "insect",
+    "㒼",
+    "虫"
+   ],
+   {
+    "histPhonetic": "㒼"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 㒼 of 蟎 is no longer visible.",
+  "source": "traditional form 蟎",
+  "confidence": 0.85
+ },
+ {
+  "char": "蹒",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "足",
+   "⿰足⿱艹两",
+   [
+    "p",
+    "foot",
+    "㒼",
+    "足"
+   ]
+  ],
+  "after": [
+   "足",
+   "⿰足⿱艹两",
+   [
+    "p",
+    "foot",
+    "㒼",
+    "足"
+   ],
+   {
+    "histPhonetic": "㒼"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 㒼 of 蹣 is no longer visible.",
+  "source": "traditional form 蹣",
+  "confidence": 0.85
+ },
+ {
+  "char": "爷",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "父",
+   "⿱父卩",
+   [
+    "p",
+    "father",
+    "耶",
+    "父"
+   ]
+  ],
+  "after": [
+   "父",
+   "⿱父卩",
+   [
+    "p",
+    "father",
+    "耶",
+    "父"
+   ],
+   {
+    "histPhonetic": "耶"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 耶 of 爺 is no longer visible.",
+  "source": "traditional form 爺",
+  "confidence": 0.85
+ },
+ {
+  "char": "盘",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "皿",
+   "⿱舟皿",
+   [
+    "p",
+    "dish",
+    "般",
+    "皿"
+   ]
+  ],
+  "after": [
+   "皿",
+   "⿱舟皿",
+   [
+    "p",
+    "dish",
+    "般",
+    "皿"
+   ],
+   {
+    "histPhonetic": "般"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 般 of 盤 is no longer visible.",
+  "source": "traditional form 盤",
+  "confidence": 0.85
+ },
+ {
+  "char": "稳",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "禾",
+   "⿰禾急",
+   [
+    "p",
+    "grain",
+    "㥯",
+    "禾"
+   ]
+  ],
+  "after": [
+   "禾",
+   "⿰禾急",
+   [
+    "p",
+    "grain",
+    "㥯",
+    "禾"
+   ],
+   {
+    "histPhonetic": "㥯"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 㥯 of 穩 is no longer visible.",
+  "source": "traditional form 穩",
+  "confidence": 0.85
+ },
+ {
+  "char": "艰",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "又",
+   "⿰又艮",
+   [
+    "p",
+    "tough",
+    "堇",
+    "艮"
+   ]
+  ],
+  "after": [
+   "又",
+   "⿰又艮",
+   [
+    "p",
+    "tough",
+    "堇",
+    "艮"
+   ],
+   {
+    "histPhonetic": "堇"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 堇 of 艱 is no longer visible.",
+  "source": "traditional form 艱",
+  "confidence": 0.85
+ },
+ {
+  "char": "苏",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "艹",
+   "⿱艹办",
+   [
+    "p",
+    "plant",
+    "稣",
+    "艹"
+   ]
+  ],
+  "after": [
+   "艹",
+   "⿱艹办",
+   [
+    "p",
+    "plant",
+    "稣",
+    "艹"
+   ],
+   {
+    "histPhonetic": "稣"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 稣 of 蘇 is no longer visible.",
+  "source": "traditional form 蘇",
+  "confidence": 0.85
+ },
+ {
+  "char": "边",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "辶",
+   "⿺辶力",
+   [
+    "p",
+    "walk",
+    "臱",
+    "辶"
+   ]
+  ],
+  "after": [
+   "辶",
+   "⿺辶力",
+   [
+    "p",
+    "walk",
+    "臱",
+    "辶"
+   ],
+   {
+    "histPhonetic": "臱"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 臱 of 邊 is no longer visible.",
+  "source": "traditional form 邊",
+  "confidence": 0.85
+ },
+ {
+  "char": "过",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "辶",
+   "⿺辶寸",
+   [
+    "p",
+    "walk",
+    "咼",
+    "辶"
+   ]
+  ],
+  "after": [
+   "辶",
+   "⿺辶寸",
+   [
+    "p",
+    "walk",
+    "咼",
+    "辶"
+   ],
+   {
+    "histPhonetic": "咼"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 咼 of 過 is no longer visible.",
+  "source": "traditional form 過",
+  "confidence": 0.85
+ },
+ {
+  "char": "邓",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "阝",
+   "⿰又阝",
+   [
+    "p",
+    "place",
+    "登",
+    "阝"
+   ]
+  ],
+  "after": [
+   "阝",
+   "⿰又阝",
+   [
+    "p",
+    "place",
+    "登",
+    "阝"
+   ],
+   {
+    "histPhonetic": "登"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 登 of 鄧 is no longer visible.",
+  "source": "traditional form 鄧",
+  "confidence": 0.85
+ },
+ {
+  "char": "释",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "釆",
+   "⿰釆？",
+   [
+    "p",
+    "collect",
+    "睪",
+    "釆"
+   ]
+  ],
+  "after": [
+   "釆",
+   "⿰釆？",
+   [
+    "p",
+    "collect",
+    "睪",
+    "釆"
+   ],
+   {
+    "histPhonetic": "睪"
+   }
+  ],
+  "why": "Simplified form: the historical sound part 睪 of 釋 is no longer visible.",
+  "source": "traditional form 釋",
+  "confidence": 0.85
+ },
+ {
+  "char": "历",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "厂",
+   "⿸厂力",
+   [
+    "p",
+    "calendar",
+    "力",
+    "厤"
+   ]
+  ],
+  "after": [
+   "厂",
+   "⿸厂力",
+   [
+    "p",
+    "calendar",
+    "力",
+    "厤"
+   ],
+   {
+    "histPhonetic": "厤"
+   }
+  ],
+  "why": "Simplified form: 曆 and 歷 both take 厤 as sound part; it is no longer visible. The source lists 厤 as meaning part (see needs-review).",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 曆 and 歷",
+  "confidence": 0.7
+ },
+ {
+  "char": "宽",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "宀",
+   "⿱宀苋",
+   [
+    "p",
+    "roof",
+    "苋",
+    "宀"
+   ]
+  ],
+  "after": [
+   "宀",
+   "⿱宀苋",
+   [
+    "p",
+    "roof",
+    "苋",
+    "宀"
+   ],
+   {
+    "histPhonetic": "萈"
+   }
+  ],
+  "why": "Simplified form: the historical sound part is 萈 (Shuowen for 寬). The source lists the lookalike 苋.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 寬",
+  "confidence": 0.85
+ },
+ {
+  "char": "属",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "尸",
+   "⿸尸禹",
+   [
+    "p",
+    "body",
+    "禹",
+    "尸"
+   ]
+  ],
+  "after": [
+   "尸",
+   "⿸尸禹",
+   [
+    "p",
+    "body",
+    "禹",
+    "尸"
+   ],
+   {
+    "histPhonetic": "蜀"
+   }
+  ],
+  "why": "Simplified form: the historical sound part is 蜀 (Shuowen for 屬). The source lists 禹, which only matches the shape.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 屬",
+  "confidence": 0.85
+ },
+ {
+  "char": "商",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "口",
+   "⿱⿱亠丷冏",
+   [
+    "p",
+    "bright",
+    "章",
+    "冏"
+   ]
+  ],
+  "after": [
+   "口",
+   "⿱⿱亠丷冏",
+   [
+    "p",
+    "bright",
+    "章",
+    "冏"
+   ],
+   {
+    "histPhonetic": "章"
+   }
+  ],
+  "why": "Shortened sound part: Shuowen reads 商 with a shortened 章, so 章 is not visible as a whole.",
+  "source": "Shuowen Jiezi (Xu Shen), entry for 商",
+  "confidence": 0.8
+ },
+ {
+  "char": "轍",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "車",
+   "⿲車育攵",
+   [
+    "p",
+    "cart",
+    "徹",
+    "車"
+   ]
+  ],
+  "after": [
+   "車",
+   "⿲車育攵",
+   [
+    "p",
+    "cart",
+    "徹",
+    "車"
+   ],
+   {
+    "histPhonetic": "徹"
+   }
+  ],
+  "why": "Shortened sound part: 徹 without its 彳.",
+  "source": "same dataset, row 徹",
+  "confidence": 0.75
+ },
+ {
+  "char": "蛋",
+  "kinds": [
+   "histPhonetic"
+  ],
+  "before": [
+   "虫",
+   "⿱疋虫",
+   [
+    "p",
+    "insect",
+    "延",
+    "虫"
+   ]
+  ],
+  "after": [
+   "虫",
+   "⿱疋虫",
+   [
+    "p",
+    "insect",
+    "延",
+    "虫"
+   ],
+   {
+    "histPhonetic": "延"
+   }
+  ],
+  "why": "Old form 蜑 has the sound part 延; in 蛋 it is reduced to 疋.",
+  "source": "variant form 蜑",
+  "confidence": 0.75
+ }
+]
