@@ -8,5 +8,5 @@ Creative Commons Attribution-ShareAlike 4.0 International licence
 This file is a changed (shortened and filtered) copy: only single characters and the words in
 `zhWords.json` / `zhWordsLong.json`, at most 2 readings and 2 meanings per word, cross references
 removed, pinyin with tone marks. Built by `scripts/build-cedict.mjs`; the version of the source file is
-in the `~source` key. The changed data stays under the same licence (CC BY-SA 4.0). The credit line is
-shown in the footer of Settings (`zhWord.source`, components/account/AppFooter.tsx).
+in the `~source` key. The changed data stays under the same licence (CC BY-SA 4.0). The credit is
+shown in Settings > Licenses (components/account/LicensesSheet.tsx).

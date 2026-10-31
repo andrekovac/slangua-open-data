@@ -9,4 +9,4 @@ This file is a changed (shortened) copy: for each character only the radical (éƒ
 (Ideographic Description Sequence) and the origin (type, hint, sound part, meaning part) are kept, in a compact
 array form. Built by `scripts/build-zhchars.mjs`. The changed data stays under the LGPL v3. It is plain data
 in its own file: you can rebuild it from the source with the script and swap it.
-The credit line is shown in the footer of Settings (`zhChar.source`, components/account/AppFooter.tsx).
+The credit line is shown in Settings > Licenses (components/account/LicensesSheet.tsx).
